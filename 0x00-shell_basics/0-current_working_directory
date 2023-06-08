@@ -1,4 +1,4 @@
 #!bin/bash
 current_dir=$(pwd)
 absolute_path=$(realpath "$current_dir")
-echo 
+echo '$absolute_path'
