@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -alh)"
+echo "$(ls -al -g)"
